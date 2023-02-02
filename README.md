@@ -3,6 +3,8 @@
 # AntiOverload / AO1
 A script to monitor CPU usage and kill the top processes if it is too high.
 ChatGPT coded ~80% of this. DM `Layer#0002` on Discord if there are issues.
+<br>
+This was originally made in Bash and ChatGPT converted it to JS. If you would like the original Bash version, then DM me on Discord.
 
 # Installation
 ```bash
